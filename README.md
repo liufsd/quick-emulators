@@ -1,6 +1,8 @@
 # quick-emulators
 Launch your Android Genymotion AVD Alfred
 
+![Finding Genymotion Emulator](https://github.com/liufsd/quick-emulators/master/Screen_Shot.png)
+
 ## Use
  open alfred (command + space) 
  
