@@ -1,17 +1,23 @@
 # quick-emulators
-Launch your Android Genymotion AVD Alfred
 
-![Finding Genymotion Emulator](https://github.com/liufsd/quick-emulators/master/Screen_Shot.png)
+  Launch your Android Genymotion AVD Alfred
+
+  ![](https://github.com/liufsd/quick-emulators/blob/master/Screen_Shot.png)
 
 ## Use
- open alfred (command + space) 
+
+ open alfred (command + space)
  
- 1.quick-emulators
-    "gm"
- 2. android library maven search
-   ms ""
-
-
+### 1. quick-emulators  
+  
+     gm
+    
+### 2. maven search  
+    
+     ms  com.android.view
+     
+     
 ## idea
-   thanks  https://github.com/dvoiss/quick-emulators
+   thanks  
+   https://github.com/dvoiss/quick-emulators
  
